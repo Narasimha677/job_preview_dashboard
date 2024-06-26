@@ -1,0 +1,15 @@
+.jobdet{
+    width:20%;
+    height: 100%;
+    background-color: rgb(251, 247, 241);
+    
+}
+.btn{
+    text-align: center;
+    /* width: 150px;
+    height: 40px; */
+    padding: 18px 60px;
+    margin: 30px 0px;
+    margin-left: 20px;
+    border-radius: 8px;
+}

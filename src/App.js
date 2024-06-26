@@ -1,11 +1,16 @@
+import Body from "./components/Body/Body";
+
+import Menu from "./components/Menu/Menu";
+import Navbar from "./components/Navbar/Navbar";
+import './index.css';
 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       Hello
-      </header>
+      <Navbar />
+      <Menu />
+      <Body/>
     </div>
   );
 }
